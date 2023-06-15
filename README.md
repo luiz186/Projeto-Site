@@ -1,2 +1,2 @@
 # Projeto-Site
- projeto de um site criado durando aula
+ projeto de um site criado durante aula
